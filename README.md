@@ -61,6 +61,17 @@ Aucun module externe n'est requis. Le script repose uniquement sur des commandes
 
 ---
 
+## Avertissement légal
+
+IP Informative Scanner Light est destiné à un usage :
+- Éducatif
+- Professionnel (audits internes, tests sur des systèmes autorisés)
+
+L’utilisation sur des systèmes tiers sans consentement explicite est interdite.
+L’auteur décline toute responsabilité en cas d’usage inapproprié ou illégal.
+
+---
+
 ## Exemple de sortie
 
 ```text
